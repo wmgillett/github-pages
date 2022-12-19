@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+William Gillett: Welcome to my blog
 ---
 
